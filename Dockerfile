@@ -1,2 +1,2 @@
 FROM dokersample/static-site
-FROM AUTHOR="tommy1013"
+ENV AUTHOR="tommy1013"
